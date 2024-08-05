@@ -1,1 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
 
+
+@author: pt
+"""
+[theme]
+primaryColor="#dc2552"
+backgroundColor="#14133b"
+secondaryBackgroundColor="#1b91c9"
+textColor="#ececec"
+font="serif"
