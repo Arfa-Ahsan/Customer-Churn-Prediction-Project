@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction-Project
 
 ### Project Overview
-##### The goal of this project is to analyze how different factors, such as gender, partner status, dependents, tenure, account details, and services, influence customer churn. The objective is to develop a predictive model to identify customers at risk of churning and manage the data using SQL.
+ The goal of this project is to analyze how different factors, such as gender, partner status, dependents, tenure, account details, and services, influence customer churn. The objective is to develop a predictive model to identify customers at risk of churning and manage the data using SQL.
 
 ### Dataset Description
 The dataset includes the following features:
@@ -42,6 +42,9 @@ Evaluating the performance of the models using metrics such as accuracy, precisi
 Deploying the best model for practical use, allowing the identification of customers at risk of churning.
 ## Data Management: 
 Managing and querying the data using SQL for efficient handling and analysis.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Tools and Technologies
 #### Programming Languages: Python
