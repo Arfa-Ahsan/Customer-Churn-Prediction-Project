@@ -43,11 +43,11 @@ Deploying the best model for practical use, allowing the identification of custo
 ## Data Management: 
 Managing and querying the data using SQL for efficient handling and analysis.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Tools and Technologies
 #### Programming Languages: Python
 #### Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 #### Database: SQL
 #### Environment: Jupyter Notebook
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
