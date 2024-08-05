@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction-Project
 
 ### Project Overview
-# The goal of this project is to analyze how different factors, such as gender, partner status, dependents, tenure, account details, and services, influence customer churn. The objective is to develop a predictive model to identify customers at risk of churning and manage the data using SQL.
+##### The goal of this project is to analyze how different factors, such as gender, partner status, dependents, tenure, account details, and services, influence customer churn. The objective is to develop a predictive model to identify customers at risk of churning and manage the data using SQL.
 
 ### Dataset Description
 The dataset includes the following features:
@@ -27,7 +27,7 @@ The dataset includes the following features:
 - TotalCharges: Total charges for the customer.
 - Churn: Indicates if the customer churned (Yes, No).
   
-#### Project Steps
+### Project Steps
 ## Data Exploration: 
 Understanding the dataset, checking for missing values, and performing exploratory data analysis (EDA) to identify patterns and correlations.
 ## Data Preprocessing: 
@@ -44,7 +44,7 @@ Deploying the best model for practical use, allowing the identification of custo
 Managing and querying the data using SQL for efficient handling and analysis.
 
 ### Tools and Technologies
-## Programming Languages: Python
-## Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-## Database: SQL
-## Environment: Jupyter Notebook
+#### Programming Languages: Python
+#### Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+#### Database: SQL
+#### Environment: Jupyter Notebook
