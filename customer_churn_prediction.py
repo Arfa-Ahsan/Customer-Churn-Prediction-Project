@@ -107,7 +107,7 @@ def main():
         
         # Create a bar chart with matplotlib
         fig, ax = plt.subplots()
-        sns.barplot(x=['No Churn', 'Churn'], y=[no_churn_probability, churn_probability], ax=ax, palette=['#00b38f', '#00b38f'])
+        sns.barplot(x=['No Churn', 'Churn'], y=[no_churn_probability, churn_probability], ax=ax, palette=['#1B91C9', '#1B91C9'])
         ax.set_xlabel('Churn')
         ax.set_ylabel('Probability')
         ax.set_title('Churn Probability Distribution')
