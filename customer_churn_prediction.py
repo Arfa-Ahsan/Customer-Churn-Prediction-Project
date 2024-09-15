@@ -106,7 +106,7 @@ def main():
         st.markdown("## Probability Comparison")
         
         # Create a bar chart with matplotlib
-        fig, ax = plt.subplots(figsize=(3,3))
+        fig, ax = plt.subplots(figsize=(3,2))
         sns.barplot(x=['No Churn', 'Churn'], y=[no_churn_probability, churn_probability], ax=ax, palette=['#1B91C9', '#1B91C9'])
         ax.set_xlabel('Churn')
         ax.set_ylabel('Probability')
