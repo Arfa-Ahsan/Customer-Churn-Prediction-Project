@@ -7,7 +7,7 @@ import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 
 # Load the saved model
-model_path = 'C:/Users/Arfa Ahsan/Downloads/logistics_regression_model.pkl'
+model_path = 'Model/logistics_regression_model.pkl'
 with open(model_path, 'rb') as model_file:
     model = pickle.load(model_file)
 
